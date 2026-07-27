@@ -66,6 +66,8 @@ project:
       children:
         - file: references/fair.md
         - file: references/valorada.md
+        - file: references/ghs_population.md
+        - file: references/c3satlas.md
 site:
   template: book-theme
   options:
